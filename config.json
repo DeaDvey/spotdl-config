@@ -19,7 +19,7 @@
     "playlist_numbering": false,
     "scan_for_songs": false,
     "m3u": null,
-    "output": "{artist}/{album}/{artists} - {title}.{output-ext}",
+    "output": "{artist}/{album}/{artists} - {title}.{output-ext}",   # This is the important line
     "overwrite": "skip",
     "search_query": null,
     "ffmpeg": "ffmpeg",
